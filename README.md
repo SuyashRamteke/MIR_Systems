@@ -11,7 +11,7 @@ Worked with self similarity matrices and dynamic programming for polyphonic audi
 
 Implemented sound source separation using Non-negative matrix factorization and compared the results
 with state of the art sound source separation library spleeter by Deezer. Got conversant with
-temporal and frequency masking 
+temporal and frequency masking. 
 
 Gained experience with music21(symbolic representation), librosa(audio processing), numpy, scipy,
 pandas and scikit-learn.
