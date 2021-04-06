@@ -7,7 +7,7 @@ models structure segmentation
 Understood the basics of audio watermarking and fingerprinting, landmark extraction, quantization,
 jaccard similarity, minhash and locality sensitive hashing
 
-Worked with self similarity matrices and dynamic programming for musical structure analysis and used 
+Used self similarity matrices and dynamic programming (Dynamic time warping) for musical structure analysis and used 
 beat synchronous chroma vectors for cover song identification
 
 Implemented sound source separation using Non-negative matrix factorization and compared the results
